@@ -1,5 +1,5 @@
 # URV-FP2
-Universitat Rovira i Virgili - Fundamentals of Computer Programming II
+Universitat Rovira i Virgili --- Fundamentals of Computer Programming II
 
 All ZIP files are password-protected.
 
