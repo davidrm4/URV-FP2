@@ -1,7 +1,7 @@
 # URV-FP2
 Universitat Rovira i Virgili --- Fundamentals of Computer Programming II
 
-All ZIP files are password-protected.
+All ZIP files are password-protected, as announced in class.
 
 RECOMMENDED BIBLIOGRAPHY
 
