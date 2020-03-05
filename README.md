@@ -9,6 +9,8 @@ B. W. Kernighan and D. M. Ritchie, The C programming language, 2nd ed., ser. Sof
 
 S. Prata, C primer plus, 6th ed., ser. Developer’s Library. Upper Saddle River, NJ: Addison-Wesley, 2014.
 
+D. Griffiths and D. Griffiths, Head first C: A brain-friendly guide. Sebastopol, CA: O’Reilly Media, 2012.
+
 COMMENTED CODE for both THEORY and LAB CLASSES
 
 Download updated versions of ZIP files containing commented code seen in both theory and lab classes. 
